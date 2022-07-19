@@ -1,0 +1,124 @@
+From Me to Everyone 04:16 AM
+where to start
+From Ethan to Everyone 04:17 AM
+May i have the control for a bit?
+So on this page i would like 2 small changes:
+From Me to Everyone 04:17 AM
+okay, what are they
+From Ethan to Everyone 04:20 AM
+can you please switch to the tab with the offer?
+right now you have to press the "add" button but it's bad for user experience
+it would be better to just press the submit button
+just have to press submit
+and the values are save
+From Me to Everyone 04:20 AM
+okay you wanted to remove the add button completly
+From Ethan to Everyone 04:23 AM
+when you edit a recipe:
+yes
+you can see the value here
+when you edit the receipe the value should remain in the popup
+and there is the cook now page
+and the behaviour is described here
+From Me to Everyone 04:23 AM
+okay
+From Ethan to Everyone 04:24 AM
+please take a look and let me know if you have any questions
+From Me to Everyone 04:24 AM
+okay.
+From Ethan to Everyone 04:24 AM
+i have stopped the control, thanks
+From Me to Everyone 04:27 AM
+Once started, I want a list of required ingredients to appear.
+you want this to be appear in popup
+right?
+From Ethan to Everyone 04:27 AM
+well, they are already displayed on each recipe
+so this is already done
+From Me to Everyone 04:28 AM
+- As I click on an ingredient, it should be substracted from the available quantity in stock, and added to the "cooker".
+can you explain this little more
+From Ethan to Everyone 04:29 AM
+you have the stock here
+From Me to Everyone 04:29 AM
+but where we click so it reduce?
+From Ethan to Everyone 04:29 AM
+if you use to cook something, lets say, 10 carrots
+there should be only 5
+From Me to Everyone 04:30 AM
+okay, you mean  if we cook any recipe so the ingrediets used in it should be subtracted
+From Ethan to Everyone 04:30 AM
+when you press "cook" should substract 5 carrots and 3624 flower
+yes
+From Me to Everyone 04:31 AM
+okay
+Once all required ingredients were added a button should appear "Eat"
+From Ethan to Everyone 04:31 AM
+so there should be a timer for each recipe
+From Me to Everyone 04:31 AM
+you mean when we start cooking after the cooking process there should be eat button
+From Ethan to Everyone 04:32 AM
+yes, if it takes 10 min to cook something (timer starts) after 9 min the eat button should appear
+right now i think the buttons are becoming disabled
+From Me to Everyone 04:32 AM
+the "kitchen" should be emptied
+where is kitchen now?
+From Ethan to Everyone 04:33 AM
+also there should be a loading bar for each recipe
+after you press "eat" the recipe should dissapear from this page
+From Me to Everyone 04:33 AM
+so wwhen I start tester
+and once I eat it so it should remove from here ?
+From Ethan to Everyone 04:34 AM
+yep
+the steps should be like this:
+From Me to Everyone 04:34 AM
+from recipes as well?
+From Ethan to Everyone 04:36 AM
+1. press cook Tester
+2. a loading bar appears on Tester and the status text on the bar "cooking"
+3. (optional) the Cook button should be renamed "Stop", or just disabled
+4. on 90% of the time (also seen on loading bar) Cook button should be replaced by "Eat" button
+5. when you click on "Eat" the recipe should dissapear
+6. the burned dish part
+From Me to Everyone 04:37 AM
+okay, well thank you for explaining everything clearly
+From Ethan to Everyone 04:37 AM
+thanks for the patience. May i draw something fast in paint?
+to show u where i think the loading bar should fit
+From Me to Everyone 04:38 AM
+okay,
+From Ethan to Everyone 04:40 AM
+can you please press print screen and copy in paint? i think i cant do that remote
+thanks
+something like that
+From Me to Everyone 04:40 AM
+okay, I understood.
+From Ethan to Everyone 04:41 AM
+and, one more thing
+i think the measure coudl dissapear from the "my stock page" and also from "recipes" page
+From Me to Everyone 04:42 AM
+only quantity?
+From Ethan to Everyone 04:42 AM
+yep
+From Me to Everyone 04:42 AM
+okay.
+From Ethan to Everyone 04:43 AM
+the problem here is that you can only pick a few ingredients, it would be nice to have a input box to be able to add new ingredients
+like, add any ingredient that you may want
+a input under the title with "add ingredient"
+From Me to Everyone 04:44 AM
+you want one action in popup to add new ingredient
+From Ethan to Everyone 04:44 AM
+and a X near each ingredient to be able to remove it
+yep, a input where you can write the name of the ingredient and the quantity
+From Me to Everyone 04:45 AM
+I think there should one more action button besides buy item (manage items)
+in which we can add and remove
+From Ethan to Everyone 04:45 AM
+as you consider that it's better
+From Me to Everyone 04:45 AM
+Okay.
+From Ethan to Everyone 04:46 AM
+removed if we close zoom
+better make a copy :D

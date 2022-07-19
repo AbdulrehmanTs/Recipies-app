@@ -1,0 +1,274 @@
+{
+  "pre-recipes": [
+    {
+      "recipeName": "test3",
+      "duration": "10",
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "3",
+          "name": "Carrots"
+        },
+        {
+          "ingredientId": 2,
+          "measure": "",
+          "quantity": "2",
+          "name": "Flour"
+        },
+        {
+          "ingredientId": 3,
+          "measure": "",
+          "quantity": "3",
+          "name": "Vanilla"
+        },
+        {
+          "ingredientId": 4,
+          "measure": "",
+          "quantity": "1",
+          "name": "Sugar"
+        },
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "1",
+          "name": "Carrots"
+        },
+        {
+          "ingredientId": 2,
+          "measure": "",
+          "quantity": "1",
+          "name": "Flour"
+        },
+        {
+          "ingredientId": 3,
+          "measure": "",
+          "quantity": "1",
+          "name": "Vanilla"
+        },
+        {
+          "ingredientId": 4,
+          "measure": "",
+          "quantity": "1",
+          "name": "Sugar"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "recipeName": "test3",
+      "duration": "2",
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "3",
+          "name": "Carrots"
+        },
+        {
+          "ingredientId": 2,
+          "measure": "",
+          "quantity": "1",
+          "name": "Flour"
+        },
+        {
+          "ingredientId": 3,
+          "measure": "",
+          "quantity": "1",
+          "name": "Vanilla"
+        },
+        {
+          "ingredientId": 4,
+          "measure": "",
+          "quantity": "1",
+          "name": "Sugar"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "recipeName": "test4",
+      "duration": "4",
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "5",
+          "name": "Carrots"
+        },
+        {
+          "ingredientId": 2,
+          "measure": "",
+          "quantity": "5",
+          "name": "Flour"
+        },
+        {
+          "ingredientId": 3,
+          "measure": "",
+          "quantity": "51",
+          "name": "Vanilla"
+        },
+        {
+          "ingredientId": 4,
+          "measure": "",
+          "quantity": "15",
+          "name": "Sugar"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "id": 5,
+      "recipeName": "shami",
+      "duration": "10",
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "20"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "recipeName": "",
+      "duration": "",
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": ""
+        },
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": ""
+        },
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "43"
+        }
+      ]
+    },
+    {
+      "recipeName": "manilla",
+      "duration": "13",
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "10",
+          "name": "Carrots"
+        },
+        {
+          "ingredientId": 2,
+          "measure": "",
+          "quantity": "4",
+          "name": "Flour"
+        },
+        {
+          "ingredientId": 3,
+          "measure": "",
+          "quantity": "5",
+          "name": "Vanilla"
+        },
+        {
+          "ingredientId": 4,
+          "measure": "",
+          "quantity": "5",
+          "name": "Sugar"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "id": 7,
+      "recipeName": "23",
+      "duration": "342",
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "21"
+        },
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "123"
+        },
+        {
+          "ingredientId": 2,
+          "measure": "",
+          "quantity": "432"
+        },
+        {
+          "ingredientId": 3,
+          "measure": "",
+          "quantity": "343"
+        },
+        {
+          "ingredientId": 4,
+          "measure": "",
+          "quantity": "t34"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "recipeName": "title",
+      "duration": "190",
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "12"
+        }
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Carrots"
+    },
+    {
+      "id": 2,
+      "name": "Flour"
+    },
+    {
+      "id": 3,
+      "name": "Vanilla"
+    },
+    {
+      "id": 4,
+      "name": "Sugar"
+    }
+  ],
+  "fridge": [
+    {
+      "id": 1,
+      "ingredientId": 1,
+      "availableQuantity": 154,
+      "measure": ""
+    },
+    {
+      "id": 2,
+      "ingredientId": 2,
+      "availableQuantity": 43,
+      "measure": ""
+    },
+    {
+      "id": 3,
+      "ingredientId": 3,
+      "availableQuantity": 39,
+      "measure": ""
+    },
+    {
+      "id": 4,
+      "ingredientId": 4,
+      "availableQuantity": 46,
+      "measure": ""
+    }
+  ]
+}

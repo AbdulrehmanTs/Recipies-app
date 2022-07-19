@@ -1,0 +1,104 @@
+{
+  "pre-recipes": [
+    {
+      "id": 1,
+      "recipeName": "CarrotCake",
+      "duration": 270,
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "quantity": 1,
+          "measure": "kg"
+        },
+        {
+          "ingredientId": 4,
+          "quantity": 0.5,
+          "measure": "kg"
+        },
+        {
+          "ingredientId": 3,
+          "quantity": 1,
+          "measure": "tsp"
+        },
+        {
+          "ingredientId": 2,
+          "quantity": 1,
+          "measure": "kg"
+        }
+      ]
+    },
+    {
+      "recipeName": "test",
+      "duration": 21,
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "quantity": 2,
+          "measure": "kg"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "recipeName": "test1",
+      "duration": 231,
+      "ingredients": [
+        {
+          "ingredientId": 2,
+          "quantity": 2,
+          "measure": "tsp"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "id": 5,
+      "recipeName": "Carrot Ice",
+      "duration": "7",
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "measure": "",
+          "quantity": "6"
+        },
+        {
+          "ingredientId": 4,
+          "measure": "",
+          "quantity": "3"
+        }
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Carrots"
+    },
+    {
+      "id": 2,
+      "name": "Flour"
+    },
+    {
+      "id": 3,
+      "name": "Vanilla"
+    },
+    {
+      "id": 4,
+      "name": "Sugar"
+    }
+  ],
+  "fridge": [
+    {
+      "id": 1,
+      "ingredientId": 1,
+      "availableQuantity": "12",
+      "measure": "kg"
+    },
+    {
+      "id": 2,
+      "ingredientId": 2,
+      "availableQuantity": "50",
+      "measure": "kg"
+    }
+  ]
+}
